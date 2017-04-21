@@ -1,0 +1,171 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Lord of The Rings Questionary</string>
+
+    <!-- Question number 1 [CHAR LIMIT=NONE] -->
+    <string name="questionOne">1. ¿What is the first sentence that is said in the film:
+        "Lord Of The Rings: The Fellowship of the Ring"?</string>
+
+    <!-- Answer A to question 1 [CHAR LIMIT=30] -->
+    <string name="answerOneA">The world is at war.</string>
+
+    <!-- Answer B to question 1 [CHAR LIMIT=30] -->
+    <string name="answerOneB">The world is not what it used to be.</string>
+
+    <!-- Answer C to question 1 [CHAR LIMIT=30] -->
+    <string name="answerOneC">The world is changed.</string>
+
+    <!-- Answer D to question 1 [CHAR LIMIT=30] -->
+    <string name="answerOneD">The world of men goes out.</string>
+
+
+
+    <!-- Question number 2 [CHAR LIMIT=NONE] -->
+    <string name="questionTwo">2. ¿What is the name of the elfic ring Gandalf carries??</string>
+
+    <!-- Answer A to question 2 [CHAR LIMIT=20] -->
+    <string name="answerTwoA">Vilya</string>
+
+    <!-- Answer B to question 2 [CHAR LIMIT=20] -->
+    <string name="answerTwoB">Visenya</string>
+
+    <!-- Answer C to question 2 [CHAR LIMIT=20] -->
+    <string name="answerTwoC">Nenya</string>
+
+    <!-- Answer D to question 2 [CHAR LIMIT=20] -->
+    <string name="answerTwoD">Narya</string>
+
+
+
+    <!-- Question number 3 [CHAR LIMIT=NONE] -->
+    <string name="questionThree">3. ¿Which caracter says "I feel thin. Sort of stretched,
+        like butter scraped over too much bread."?</string>
+
+    <!-- Answer A to question 3 [CHAR LIMIT=20] -->
+    <string name="answerThreeA">Bilbo</string>
+
+    <!-- Answer B to question 3 [CHAR LIMIT=20] -->
+    <string name="answerThreeB">Eomer</string>
+
+    <!-- Answer C to question 3 [CHAR LIMIT=20] -->
+    <string name="answerThreeC">Frodo</string>
+
+    <!-- Answer D to question 3 [CHAR LIMIT=20] -->
+    <string name="answerThreeD">Gandalf</string>
+
+
+
+    <!-- Question number 4 [CHAR LIMIT=NONE] -->
+    <string name="questionFour">4. ¿In the book, who saves a Frodo of the Nazgul on
+        the Vade of Bruinen, before arriving at Rivendel?</string>
+
+    <!-- Answer A to question 4 [CHAR LIMIT=20] -->
+    <string name="answerFourA">Glorfindel</string>
+
+    <!-- Answer B to question 4 [CHAR LIMIT=20] -->
+    <string name="answerFourB">Gollum</string>
+
+    <!-- Answer C to question 4 [CHAR LIMIT=20] -->
+    <string name="answerFourC">Arwen</string>
+
+    <!-- Answer D to question 4 [CHAR LIMIT=20] -->
+    <string name="answerFourD">Thranduil</string>
+
+
+
+    <!-- Question number 5 [CHAR LIMIT=NONE] -->
+    <string name="questionFive">5. ¿What is the name of the sword used by Aragorn during the War of the Ring?</string>
+
+    <!-- Answer A to question 5 [CHAR LIMIT=20] -->
+    <string name="answerFiveA">Aeglos</string>
+
+    <!-- Answer B to question 5 [CHAR LIMIT=20] -->
+    <string name="answerFiveB">Anduril</string>
+
+    <!-- Answer C to question 5 [CHAR LIMIT=20] -->
+    <string name="answerFiveC">Narsil</string>
+
+    <!-- Answer D to question 5 [CHAR LIMIT=20] -->
+    <string name="answerFiveD">Glamdring</string>
+
+
+
+    <!-- Question number 6 [CHAR LIMIT=NONE] -->
+    <string name="questionSix">6. ¿Who are Sauron\'s followers? (You can select more than one)</string>
+
+    <!-- Answer A to question 6 [CHAR LIMIT=20] -->
+    <string name="answerSixA">Saruman</string>
+
+    <!-- Answer B to question 6 [CHAR LIMIT=20] -->
+    <string name="answerSixB">Berseker</string>
+
+    <!-- Answer C to question 6 [CHAR LIMIT=20] -->
+    <string name="answerSixC">Gamelin</string>
+
+    <!-- Answer D to question 6 [CHAR LIMIT=20] -->
+    <string name="answerSixD">Specters</string>
+
+
+
+    <!-- Question number 7 [CHAR LIMIT=NONE] -->
+    <string name="questionSeven">7. ¿The real name of Merry is Meregrin??</string>
+
+    <!-- Answer true to question 7 [CHAR LIMIT=20] -->
+    <string name="answerSevenA">True</string>
+
+    <!-- Answer false to question 7 [CHAR LIMIT=20] -->
+    <string name="answerSevenB">False</string>
+
+
+
+    <!-- Question number 8 [CHAR LIMIT=NONE] -->
+    <string name="questionEight">8. ¿What words does Gollum say while being tortured in Mordor??</string>
+
+    <!-- Answer A to question 8 [CHAR LIMIT=30] -->
+    <string name="answerEightA">Shire, Ring</string>
+
+    <!-- Answer B to question 8 [CHAR LIMIT=30] -->
+    <string name="answerEightB">Ring, Hobbit</string>
+
+    <!-- Answer C to question 8 [CHAR LIMIT=30] -->
+    <string name="answerEightC">Hobbit, Wizard</string>
+
+    <!-- Answer D to question 8 [CHAR LIMIT=30] -->
+    <string name="answerEightD">Bolson, Shire</string>
+
+
+
+    <!-- Question number 9 [CHAR LIMIT=NONE] -->
+    <string name="questionNine">9. ¿How many are the Nazgul Specters??</string>
+
+    <!-- Hint text for answer to question 10 [CHAR LIMIT=20] -->
+    <string name="number">Number (1 to 12)</string>
+
+
+    <!-- Question number 10 [CHAR LIMIT=NONE] -->
+    <string name="questionTen">10. ¿Who tries to destroy the ring in the council of Elrond?</string>
+
+    <!-- Answer A to question 10 [CHAR LIMIT=20] -->
+    <string name="answerTenA">Elrond</string>
+
+    <!-- Answer B to question 10 [CHAR LIMIT=20] -->
+    <string name="answerTenB">Legolas</string>
+
+    <!-- Answer C to question 10 [CHAR LIMIT=20] -->
+    <string name="answerTenC">Gimli</string>
+
+    <!-- Answer D to question 10 [CHAR LIMIT=20] -->
+    <string name="answerTenD">Boromir</string>
+
+
+
+    <!-- Text for the button submit [CHAR LIMIT=20] -->
+    <string name="buttonText">Submit</string>
+
+
+    <!-- -->
+    <string name="errorMissingAnswers">Answer all the questions</string>
+
+    <!-- -->
+    <string name="submitMessage">You have answered <xliff:g id="points" example="6">%d</xliff:g> of 10 correctly!!</string>
+
+</resources>
